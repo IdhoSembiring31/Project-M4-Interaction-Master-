@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/86ba50ad-2ede-4214-8e92-e6538fcd63e2
 
 ![App Greeting](link_screenshot_anda.png)
 
+
+
 ## 🛠️ Logic Implemented
 - **useState Hook:** Managing name and role input.
 - **Event Handlers:** onChangeText for real-time binding.
