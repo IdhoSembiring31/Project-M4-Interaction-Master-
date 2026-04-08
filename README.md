@@ -3,7 +3,11 @@ Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
 
-https://github.com/user-attachments/assets/86ba50ad-2ede-4214-8e92-e6538fcd63e2
+
+
+https://github.com/user-attachments/assets/33aed1c8-84aa-4c03-8a75-57c3ca4f31bf
+
+
 
 
 
