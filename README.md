@@ -5,8 +5,6 @@ Tugas praktikum Minggu 4 - State & Events.
 
 https://github.com/user-attachments/assets/86ba50ad-2ede-4214-8e92-e6538fcd63e2
 
-![App Greeting](link_screenshot_anda.png)
-
 
 
 ## 🛠️ Logic Implemented
